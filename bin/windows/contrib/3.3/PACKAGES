@@ -1,0 +1,9 @@
+Package: mxnet
+Version: 0.9.4
+Imports: methods, Rcpp (>= 0.12.1), visNetwork (>= 1.0.3), data.table,
+        jsonlite, magrittr, stringr
+LinkingTo: Rcpp
+Suggests: testthat, mlbench, knitr, rmarkdown, imager
+License: BSD
+Archs: x64
+
